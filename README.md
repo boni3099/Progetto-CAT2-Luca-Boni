@@ -32,7 +32,7 @@ rumore) e valutare di quanto deve essere sovradimensionato per gestire il transi
 
 ## Analisi del Plant
 
-![grafico 1](./Progetto CAT 2 2023/ppt/media/image2.png)
+![](./Progetto CAT 2 2023/ppt/media/image2.png)
 Abbiamo un polo
 reale a -80 e 2 poli
 complessi
